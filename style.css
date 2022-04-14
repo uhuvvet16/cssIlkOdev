@@ -7,6 +7,9 @@ body ul,ol {
 h2 {
     font-size: 2rem;
 }
+.h-b {
+    float: left;
+}
 .menu {
     display: flex;
     justify-content: center;
